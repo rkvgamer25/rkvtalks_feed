@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "title": "RKV Talks",
+    "description": "RKVTalks discuss a wide variety of topics, issues as well as movie, news update, TV shows, and other information. Visit Us @ Meetup.com/3vpstudio & rkvtalks.com/3vpstudio.",
+    "link": "https://www.youtube.com/channel/UCPZbtsYYN-5HsCDhskcyCeQ",
+    "country": "US",
+    "published_date": "2011-11-12T18:24:04Z"
+  },
+  "videos": [
+    {
+      "title": "Spot The Hidden People For $10,000",
+      "link": "https://www.youtube.com/watch?v=Gx6VeIIbWwM",
+      "description": "",
+      "thumbnail": "URL_TO_THUMBNAIL_IMAGE",
+      "views": 43448893,
+      "likes": 2567356,
+      "comments": 6056,
+      "published_date": "2023-09-28T17:00:01Z",
+      "duration": "PT35S",
+      "category": "Entertainment"
+    }
+    // Add more video entries as needed
+  ]
+}
